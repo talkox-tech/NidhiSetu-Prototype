@@ -22,7 +22,7 @@ SIH 25059 #HackSpire Crew15
 <img width="1632" height="947" alt="Image" src="https://github.com/user-attachments/assets/49039ebf-1e78-4d23-8236-fa4a9a8459a3" />
 
 For more info 👆 https://www.youtube.com/watch?v=IADFab0HVAM&list=PLBKc3Bxp0Xf4yI3Rga-OXGxmpHKxo1g40&index=2
-#  Meet The Real Player Behind the Curton:
+#  Meet The Real Player Behind the Curtain:
 ##  Dipti Chaturvedi (https://github.com/Dipti1516)
 ##  Rohit Patel (https://github.com/furishstark)
 ##  Gaurav
